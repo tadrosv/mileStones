@@ -1,8 +1,6 @@
 
 /*
 Victor Tadros
-CMPT 201 X01L
-Hanan Saleh
 Purpose: print a calander based on month and year specified by user input
 */
 
