@@ -1,7 +1,5 @@
 /*
 Name: Victor Tadros
-CMPT 201 X01L
-Instructor: Hanan Saleh
 Purpose: Compress a string into hexadecimals if a character is repeated more
          than one consective times
 */
