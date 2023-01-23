@@ -1,8 +1,6 @@
 /*
 Victor Tadros
 Assignment 1
-Instructor: Hanan Saleh
-CMPT 201 X01L
 */
 
 #include <stdio.h>
